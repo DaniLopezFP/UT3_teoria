@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UT3_Teoria</string>
+
+    <string name="string_res">Texto desde strings.xml</string>
+    <string name="format_string_res">Cantidad de ítems: %1$s</string>
+    <string-array name="string_array_res">
+        <item>String 1</item>
+        <item>String 2</item>
+        <item>String 3</item>
+    </string-array>
+</resources>
